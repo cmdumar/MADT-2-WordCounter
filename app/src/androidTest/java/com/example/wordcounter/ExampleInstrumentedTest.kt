@@ -12,6 +12,8 @@ import org.junit.Assert.*
  * Instrumented test, which will execute on an Android device.
  *
  * See [testing documentation](http://d.android.com/tools/testing).
+ * 
+ * Note: This is a basic instrumentation test. See MainActivityUITest.kt for comprehensive UI tests.
  */
 @RunWith(AndroidJUnit4::class)
 class ExampleInstrumentedTest {
